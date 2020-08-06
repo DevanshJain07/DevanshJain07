@@ -6,7 +6,7 @@ Hi, I am Devansh Jain pursuing BTech in Computer Science Engineering🎓. I am a
 **Talking about Personal Stuffs-**
 
 - 🔭 I’m currently working on Open Source!
-- 🌱 I’m currently learning AngularJs!
+- 🌱 I’m currently learning AngularJs , React Native!
 - 👯 I’m looking to collaborate on - Any Open Source Project involving Web Development/ Machine Learning / AndroidD 
 - 🤔 I’m looking for help with Data Structure and Algorithms🥺
 - 💬 Ask me about anything tech. I'll try my best to help you out!
