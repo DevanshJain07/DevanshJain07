@@ -21,5 +21,4 @@ Hi, I am Devansh Jain pursuing BTech in Computer Science Engineering🎓. I am a
 <a href="https://www.instagram.com/devansh_jain07/">
   <img alt="Devansh Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Javascript >> Python
+
