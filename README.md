@@ -39,6 +39,9 @@ width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.s
   <img src="https://img.shields.io/badge/-Android-black?style=for-the-badge&logo=Android" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Tensorflow-black?style=for-the-badge&logo=Tensorflow" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Pandas-black?style=for-the-badge&logo=pandas" />&nbsp;&nbsp;&nbsp;&nbsp;
-
 </p>
+<p>
+  <img src="https://githubreadmestats.vercel.app/apiusername=DevanshJain07&theme=radical&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=33&hide_rank=true" alt="Devansh's github stats"/>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshJain07&show_icons=true&theme=tokyonight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Devansh's github stats"/>
+ </p>
 
