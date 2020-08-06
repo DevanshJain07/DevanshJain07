@@ -1,8 +1,6 @@
 ## Hello World👋!
-
 ![](https://visitor-badge.glitch.me/badge?page_id=DevanshJain07.DevanshJain07)
 <br/>
-
 Hi, I am Devansh Jain pursuing BTech in Computer Science Engineering🎓. I am a keen learner and love to explore new technologies 💻 and leverage them to solve real-life problems. I'm driven by the will to create an impact and encourage inclusion in communities as we never grow alone but always with a community.
 
 **Talking about Personal Stuffs-**
