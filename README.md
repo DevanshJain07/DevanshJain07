@@ -12,14 +12,14 @@ Hi, I am Devansh Jain pursuing BTech in Computer Science Engineering🎓. I am a
 - 👯 I’m looking to collaborate on - Any Open Source Project involving Web Development/ Machine Learning / AndroidD 
 - 🤔 I’m looking for help with Data Structure and Algorithms🥺
 - 💬 Ask me about anything tech. I'll try my best to help you out!
-- 📫 How to reach me: Follow me on these platforms! : <br/>
+- 📫 How to reach me: Follow me on these platforms! :
 <a href="https://twitter.com/Devansh81497666">
-  <img align="center" alt="Devansh twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="right" alt="Devansh twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/devansh-jain-8a8862176/">
-  <img align="center" alt="Devansh LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="right" alt="Devansh LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/devansh_jain07/">
-  <img align="center" alt="Devansh Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="right" alt="Devansh Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
